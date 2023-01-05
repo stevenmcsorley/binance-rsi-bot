@@ -35,4 +35,19 @@ pip install pandas binance ta
 
 You should adjust these parameters to fit your specific trading strategy.
 
+## Improvements
+
+There are several ways that this script could be improved:
+
+1. Implement more advanced trading strategies: The current script only uses the RSI to make trades, but there are many other technical indicators and trading strategies that could be implemented to improve the performance of the bot.
+
+2. Use a more sophisticated risk management strategy: The current script uses a simple risk strategy to determine the amount of the asset to buy and sell, but a more sophisticated risk management strategy could be implemented to better manage the risk of trades.
+
+3. Use more data: The current script only uses the close prices of the last 14 candlesticks to calculate the RSI, but using more data could potentially improve the accuracy of the RSI and the performance of the bot.
+
+4. Optimize the code: The current script could be optimized for better performance, such as by using more efficient algorithms or minimizing the number of API calls.
+
+5. Add more features: The current script only has a few basic features, such as the ability to buy and sell assets based on the RSI. Adding more features, such as the ability to set stop-loss and take-profit orders, could make the bot more useful and flexible.
+
+
 **Disclaimer:** This script is for educational and informational purposes only, and should not be used as financial advice. Trading cryptocurrency carries a high level of risk, and you should always do your own research and due diligence before making any trades. The author of this script is not  a financial advisor and is not responsible for any losses incurred as a result of using this script.
