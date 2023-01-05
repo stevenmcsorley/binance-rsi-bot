@@ -50,4 +50,6 @@ There are several ways that this script could be improved:
 5. Add more features: The current script only has a few basic features, such as the ability to buy and sell assets based on the RSI. Adding more features, such as the ability to set stop-loss and take-profit orders, could make the bot more useful and flexible.
 
 
+
+
 **Disclaimer:** This script is for educational and informational purposes only, and should not be used as financial advice. Trading cryptocurrency carries a high level of risk, and you should always do your own research and due diligence before making any trades. The author of this script is not  a financial advisor and is not responsible for any losses incurred as a result of using this script.
